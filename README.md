@@ -1,3 +1,5 @@
+`Covid-19 Tracker`
+
 TR: Covid-19 ile ilgili veriler https://disease.sh/v3/covid-19/countries/ adresi kullılarak alınmaktadır. Harita kullanılarak kullanıcının haritadan ülke seçmesi sağlanmaktadır. Kullanıcının seçmiş olduğu bu ülkeye ait covid-19 verileri API'den çekilerek kullanıcıya gösterilmektedir. Kullanıcı sadece harita üzerinden değil aynı zamanda ülke ismi ile arama yaparak covid-19 verilerini görebilmesi sağlanmaktadır.
 
 EN: Data on Covid-19 is obtained using the address https://disease.sh/v3/covid-19/countries/. Using the map, the user is provided to select a country from the map. The covid-19 data of the country selected by the user is pulled from the API and shown to the user. It is ensured that the user can see the covid-19 data not only on the map, but also by searching by country name.
