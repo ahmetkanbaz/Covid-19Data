@@ -4,6 +4,25 @@ TR: Covid-19 ile ilgili veriler https://disease.sh/v3/covid-19/countries/ adresi
 
 EN: Data on Covid-19 is obtained using the address https://disease.sh/v3/covid-19/countries/. Using the map, the user is provided to select a country from the map. The covid-19 data of the country selected by the user is pulled from the API and shown to the user. It is ensured that the user can see the covid-19 data not only on the map, but also by searching by country name.
 
+TR: Ekran görüntüleri aşağıda verilmiştir.
+
+EN: Screenshots are given below.
+
+TR: İlk ekran görüntüsü.
+
+EN: First screenshot.
+
+![worldMap](https://user-images.githubusercontent.com/106634419/202481030-624abf12-7443-4a4d-b007-9ed19f684134.png)
+
+
+
+TR: İkinci ekran görüntüsü.
+
+EN: Second screenshot.
+
+
+![searchCountry](https://user-images.githubusercontent.com/106634419/202481219-3e48648e-4fb6-4de2-9852-b861058ce901.png)
+
 
 # Getting Started with Create React App
 
